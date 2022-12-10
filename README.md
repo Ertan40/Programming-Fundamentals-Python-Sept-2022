@@ -1,13 +1,5 @@
-# Programming-Fundamentals-Python-Sept-2022
-This is repository with solutions of problems in SoftUni Course: Programming Fundamentals with Python - September 2022
-SoftUni Fundamentals September 2022
+SoftUni_Project
+This repo stores the #SoftUni homework assignments and past exams done for the courses in "Python Developer" track.
 
-
-SoftUni courses & modules including free courses programming basics with Python, C#, Java & JavaScript.
-
-https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022
-
-Online judge system - https://judge.softuni.org/
-
-My GitHub
-SoftUni GitHub: https://github.com/SoftUni
+Python Fundamentals
+Python Advanced
